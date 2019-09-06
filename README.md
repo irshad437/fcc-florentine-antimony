@@ -1,2 +1,4 @@
-# fcc-florentine-antimony
-FCC Test Challengs Prototype QA with mocha &amp; chai
+FCC Test Challengs Prototype 
+============================
+
+QA with mocha & chai
